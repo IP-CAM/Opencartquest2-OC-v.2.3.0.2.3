@@ -1,0 +1,17 @@
+2018-07-23 19:25:01 - PHP Notice:  Undefined variable: q in /home/nikola/projects/opencartquest/admin/model/catalog/category.php on line 69
+2018-07-23 19:38:43 - PHP Notice:  Undefined index: NEW_FIELD in /home/nikola/projects/opencartquest/admin/view/template/catalog/category_form.tpl on line 86
+2018-07-23 19:42:33 - PHP Notice:  Undefined index: NEW_FIELD in /home/nikola/projects/opencartquest/admin/view/template/catalog/category_form.tpl on line 86
+2018-07-23 19:42:33 - PHP Notice:  Undefined index: NEW_FIELD in /home/nikola/projects/opencartquest/admin/view/template/catalog/category_form.tpl on line 86
+2018-07-23 19:57:17 - PHP Notice:  Undefined index: NEW_FIELD in /home/nikola/projects/opencartquest/admin/view/template/catalog/category_form.tpl on line 87
+2018-07-23 19:57:17 - PHP Notice:  Undefined index: NEW_FIELD in /home/nikola/projects/opencartquest/admin/view/template/catalog/category_form.tpl on line 87
+2018-07-23 19:57:44 - PHP Notice:  Array to string conversion in /home/nikola/projects/opencartquest/admin/view/template/catalog/category_form.tpl on line 86
+2018-07-23 19:57:44 - PHP Notice:  Undefined index: NEW_FIELD in /home/nikola/projects/opencartquest/admin/view/template/catalog/category_form.tpl on line 87
+2018-07-23 19:57:44 - PHP Notice:  Array to string conversion in /home/nikola/projects/opencartquest/admin/view/template/catalog/category_form.tpl on line 86
+2018-07-23 19:57:44 - PHP Notice:  Undefined index: NEW_FIELD in /home/nikola/projects/opencartquest/admin/view/template/catalog/category_form.tpl on line 87
+2018-07-23 19:58:03 - PHP Notice:  Undefined index: NEW_FIELD in /home/nikola/projects/opencartquest/admin/view/template/catalog/category_form.tpl on line 87
+2018-07-23 19:58:03 - PHP Notice:  Undefined index: NEW_FIELD in /home/nikola/projects/opencartquest/admin/view/template/catalog/category_form.tpl on line 87
+2018-07-23 19:59:02 - PHP Warning:  Use of undefined constant languages - assumed 'languages' (this will throw an Error in a future version of PHP) in /home/nikola/projects/opencartquest/admin/view/template/catalog/category_form.tpl on line 42
+2018-07-23 19:59:02 - PHP Notice:  Undefined index: NEW_FIELD in /home/nikola/projects/opencartquest/admin/view/template/catalog/category_form.tpl on line 88
+2018-07-23 19:59:02 - PHP Notice:  Undefined index: NEW_FIELD in /home/nikola/projects/opencartquest/admin/view/template/catalog/category_form.tpl on line 88
+2018-07-23 19:59:57 - PHP Notice:  Undefined index: NEW_FIELD in /home/nikola/projects/opencartquest/admin/view/template/catalog/category_form.tpl on line 88
+2018-07-23 19:59:57 - PHP Notice:  Undefined index: NEW_FIELD in /home/nikola/projects/opencartquest/admin/view/template/catalog/category_form.tpl on line 88
