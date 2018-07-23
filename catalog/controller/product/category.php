@@ -105,7 +105,7 @@ class ControllerProductCategory extends Controller {
 			} else {
 				$data['heading_title'] = $category_info['name'];
 			}
-
+			$data['NEW_FIELD'] = $category_info['NEW_FIELD'];
 			$data['text_refine'] = $this->language->get('text_refine');
 			$data['text_empty'] = $this->language->get('text_empty');
 			$data['text_quantity'] = $this->language->get('text_quantity');
